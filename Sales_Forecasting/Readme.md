@@ -1,4 +1,4 @@
-### Product Sales Forecasting
+# Product Sales Forecasting
 
 This project focuses on developing a predictive model to forecast future store sales using historical data. The goal is to optimize various aspects of retail management, such as inventory control, financial planning, marketing, and supply chain operations.
 
@@ -6,7 +6,7 @@ This project focuses on developing a predictive model to forecast future store s
 
 In the competitive retail industry, accurate sales forecasting is crucial for making informed decisions. This project uses historical sales data, incorporating factors like store type, location, regional characteristics, promotions, and temporal variations, to build a robust forecasting model. The project also includes data exploration and hypothesis testing to ensure the validity and reliability of the forecasting model.
 
-# Key Components
+### Key Components
 
 - **EDA_File.ipynb**: Contains the Exploratory Data Analysis (EDA) process, which uncovers trends, patterns, and insights within the dataset.
 - **Hypothesis Testing.ipynb**: Includes various hypothesis tests to validate assumptions about the factors influencing sales, such as the impact of discounts and holidays.
